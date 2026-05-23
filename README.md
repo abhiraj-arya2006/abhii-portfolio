@@ -7,6 +7,9 @@ Do check it out!
 
 I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
 
+To run the portfolio just install all the dependencies and run the command 
+npm run dev 
+
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
 ![Portfolio-Preview](public/images/preview.png)
