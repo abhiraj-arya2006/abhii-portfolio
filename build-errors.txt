@@ -1,0 +1,6 @@
+
+> rajesh-portfolio@0.0.0 build
+> tsc -b && vite build
+
+src/components/utils/splitText.ts(35,7): error TS18048: 'para.split' is possibly 'undefined'.
+src/components/utils/splitText.ts(61,7): error TS18048: 'title.split' is possibly 'undefined'.
